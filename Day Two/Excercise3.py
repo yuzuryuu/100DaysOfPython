@@ -12,3 +12,4 @@ days = (32850 - (int(age) * 365))
 
 print("You have " + str(days) + " days, " + str(weeks) +
       " weeks, and " + str(months) + " months left.")
+print(f"You have {days} days, {weeks} weeks, and {months} months left.")

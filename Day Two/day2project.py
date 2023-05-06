@@ -1,3 +1,5 @@
+# Day 2 Project - Tip Calculator
+
 totalBill = input("How much was the bill?\n$")
 people = input("\nHow many people to split the bill?\n")
 tip = input("\nHow much tip would you like to give?\n")
